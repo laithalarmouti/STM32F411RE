@@ -1,0 +1,8 @@
+"./Drivers/Src/STM32F411RE_GPIO_DRIVER.o"
+"./Drivers/Src/STM32F411RE_I2C_DRIVER.o"
+"./Drivers/Src/STM32F411RE_SPI_DRIVER.o"
+"./Drivers/Src/STM32F411RE_USART_DRIVER.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f411retx.o"

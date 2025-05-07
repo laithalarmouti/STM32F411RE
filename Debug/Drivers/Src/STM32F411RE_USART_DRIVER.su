@@ -1,0 +1,11 @@
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:9:6:USART_PeriClockControl	16	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:54:6:USART_Init	24	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:149:6:USART_SendData	32	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:198:6:USART_ReceiveData	32	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:261:9:USART_SendDataIT	32	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:283:9:USART_ReceiveDataIT	32	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:301:6:USART_SetBaudRate	40	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:371:9:USART_GetFlagStatus	16	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:381:10:RCC_GetPCLK1Value	24	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:428:10:RCC_GetPCLK2Value	24	static
+../Drivers/Src/STM32F411RE_USART_DRIVER.c:477:6:USART_IRQHandling	32	static
